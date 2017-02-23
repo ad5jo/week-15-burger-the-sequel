@@ -9,12 +9,6 @@ module.exports = function(sequelize, DataTypes) {
             type: DataTypes.BOOLEAN,
             defaultValue: false
         },
-
-        date: {
-            type: DataTypes.TIMESTAMP
-        },
-
-
     });
     return Burger;
 };
