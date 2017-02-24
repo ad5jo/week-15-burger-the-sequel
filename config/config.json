@@ -1,23 +1,30 @@
 {
-  "development": {
-    "username": "root",
-    "password": "Starbucks9",
-    "database": "burgers_db",
-    "host": "127.0.0.1",
-    "dialect": "mysql"
-  },
-  "test": {
-    "username": "root",
-    "password": "Starbucks9",
-    "database": "burgers_db",
-    "host": "127.0.0.1",
-    "dialect": "mysql"
-  },
+    "development": {
+        "username": "root",
+        "password": "Starbucks9",
+        "database": "burgers_db",
+        "host": "127.0.0.1",
+        "dialect": "mysql"
+    },
+    "test": {
+        "username": "root",
+        "password": "Starbucks9",
+        "database": "burgers_db",
+        "host": "127.0.0.1",
+        "dialect": "mysql"
+    },
+    "product1": {
+        "username": "root",
+        "password": "Starbucks9",
+        "database": "burgers_db",
+        "host": "127.0.0.1",
+        "dialect": "mysql"
+    },
     "production": {
-	  "username": "root",
-    "password": "Starbucks9",
-    "database": "burgers_db",
-    "host": "127.0.0.1",
-    "dialect": "mysql"
-  }
+        "username": "ad22c9dqxv4jjtvt",
+        "password": "j8lezu2w8kf7jul9",
+        "database": "burgers_db",
+        "host": "d6ybckq58s9ru745.cbetxkdyhwsb.us-east-1.rds.amazonaws.com",
+        "dialect": "mysql"
+    }
 }
